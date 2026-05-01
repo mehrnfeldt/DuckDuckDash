@@ -1,0 +1,6 @@
+{
+  "name": "QuackQuest: River Crossing",
+  "description": "Navigate a voxel duck through the Schuylkill River using Python-style commands. Dodge logs and reach the finish line!",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
